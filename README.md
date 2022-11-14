@@ -1,16 +1,8 @@
-# flutter_pahlawan_indonesia
+# Flutter Pahlawan Indonesia
+Klik untuk download aplikasi<br/>
+[![Pahlawan.apk](https://img.shields.io/badge/Pahlawan%20RI-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/rickyricko302/Pahlawan-RI/releases/download/v1.0/app-release.apk)
+---
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![](https://github.com/rickyricko302/Pahlawan-RI/blob/main/screenshoot/ss.jpg)](https://github.com/rickyricko302/Pahlawan-RI/blob/main/screenshoot/ss.jpg?raw=true)
+---
+Aplikasi online yang memuat cerita-cerita dan biografi para pahlawan Indonesia🔥🔥
